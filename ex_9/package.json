@@ -1,0 +1,16 @@
+{
+  "name": "ex_9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\\first Node.js and Express as Web Server",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "logplease": "^1.2.14"
+  }
+}

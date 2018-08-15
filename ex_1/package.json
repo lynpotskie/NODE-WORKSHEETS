@@ -1,0 +1,12 @@
+{
+  "name": "ex_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\\Running my first script!!",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
